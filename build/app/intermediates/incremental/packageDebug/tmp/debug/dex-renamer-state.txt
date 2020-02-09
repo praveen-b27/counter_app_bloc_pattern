@@ -1,0 +1,4 @@
+#Thu Dec 26 14:16:25 GST 2019
+base.0=/Users/praveen/Desktop/WorkSpace/Flutter/counter_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
